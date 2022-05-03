@@ -1,4 +1,4 @@
-# <a href="https://alanmgg.github.io/analogclock/" target="_blank">Analog Clock</a>
+# <a href="https://github.com/alanmgg/Login-Signup/" target="_blank">Login Signup</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/alanmgg/LoginSignup)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://alanmgg.github.io/login/)
