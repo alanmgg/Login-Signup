@@ -1,11 +1,22 @@
-# <a href="https://github.com/alanmgg/Login-Signup/" target="_blank">Login Signup</a>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h1 align="center">Login Signup ✨</h1>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/alanmgg/LoginSignup)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://alanmgg.github.io/login/)
-[![Author](https://img.shields.io/badge/Author-Alan%20Francisco%20Mora-blue.svg)](https://github.com/alanmgg)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-01%20Jun%202022-yellow.svg)](https://github.com/alanmgg/Login-Signup/commits/main)
+  <p align="center">
+    Proyecto personal que tenía como objetivo desarrollar un registro e inicio de sesión responsivos. URL / Demo: 
+    <a href="https://alanmgg.github.io/login/">alanmgg.github.io/login/</a>
+    <br />
+    <br />
+    <a href="https://alanmg.vercel.app/">Más sobre mi</a>
+  </p>
+</p>
 
-<p align="justify">Proyecto personal que tenía como objetivo desarrollar un registro e inicio de sesión responsivos.</p>
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg?style=for-the-badge)](https://github.com/alanmgg/Login-Signup)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green?style=for-the-badge)](https://alanmgg.github.io/login/)
+[![Author](https://img.shields.io/badge/Author-Alan%20Francisco%20Mora%20G-blue.svg?style=for-the-badge)](https://github.com/alanmgg)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-21%20Jun%202022-yellow.svg?style=for-the-badge)](https://github.com/alanmgg/Login-Signup/commits/main)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alanmgggg?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/alanmgggg)
 
 <p align="center">
   <kbd>
